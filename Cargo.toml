@@ -1,0 +1,13 @@
+[package]
+name = "s-exp"
+version = "0.1.0"
+authors = ["Wael El Oraiby <wael.eloraiby@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "S-Expression parser"
+repository = "https://github.com/eloraiby/s-exp"
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+alt-std = "0.2.9"
